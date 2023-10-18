@@ -13,4 +13,5 @@ I made some projects like Amazon tracker and WhatsApp sender in Odoo and shared 
 * XML
 #
 📫 How to reach me: Abdullah.Saeed.B.B@gmail.com 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/abdullah-saeed-dev/)

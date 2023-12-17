@@ -5,12 +5,16 @@
 I made some projects like Amazon tracker and WhatsApp sender in Odoo and shared some articles about Odoo development in my Linkedin profile.
 
 ## My skills
+* Odoo
 * Python
+* PostgreSQL
 * Linux
-* Git
+* JSON
+* Git / Github
+* DBMS
 * SQL
-* HTML / CSS
 * XML
+* HTML / CSS
 #
 📫 How to reach me: Abdullah.Saeed.B.B@gmail.com 
 
